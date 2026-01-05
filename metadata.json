@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ULTRON-01: Advanced Sentient Interface",
+  "description": "A sophisticated AI interface inspired by Ultron, featuring advanced reasoning, image generation, and real-time voice synthesis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
